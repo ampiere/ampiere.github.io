@@ -12,8 +12,15 @@
   border: 2px solid black;
 }
 
-.mainpic {
+#mainpic {
   height: 250px;
   width: 250px;
   border: 3px solid black;
+}
+
+.button {
+  height: 50px;
+  width: 120px;
+  background-color: #DEECFF;
+  border: 2px solid #8B8D8F;
 }
