@@ -1,5 +1,5 @@
 .headline {
-  color: #000000;
+  color: #8D8D8D;
   font-family: Arial;
   text-align: center;
 }
@@ -7,10 +7,10 @@
 #sidebar {
   height: 200px;
   width: 50px;
-  color: #B9BCBF;
+  color: #C4C4C4;
 }
 
 .mainpic {
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
 }
