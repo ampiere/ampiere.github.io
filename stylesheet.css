@@ -3,10 +3,10 @@
   font-size: 16px;
 }
 
-.headline {
+h1 {
   color: #8D8D8D;
   font-family: Garamond;
-  text-align: left;
+  text-align: center;
   font-size: 48px;
 }
 
@@ -23,6 +23,7 @@ ul {
 
 li {
 	display: block;
+	float: left;
 	padding: 5px;
 	border: 2px solid #333639;
 	border-radius: 5px 5px;
