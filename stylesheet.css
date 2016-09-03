@@ -37,8 +37,8 @@ ul {
 li {
 	padding: 5px;
 	float: left;
-	border: 2px solid #333639;
-	border-radius: 5px;
+	border-left: 1px solid #333639;
+	border-right: 1px solid #333639;
 	background-color: #CAD7E6
 }
 
