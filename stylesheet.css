@@ -7,12 +7,11 @@
 #header {
   background-color: #222222;
   padding: 30px 10px 0px 10px;
-  margin: -30px -10px 0px -10px;
+  margin: -35px -10px 0px -10px;
 }
 
 #navbar {
-  margin-top: -32px;
-  margin-left:-50px;
+  margin-top: -32px auto 0px;
 }
 
 h1 {
@@ -37,7 +36,6 @@ ul {
 
 li {
 	padding: 5px;
-	float: left;
 	border-left: 1px solid #333639;
 	border-right: 1px solid #333639;
 	background-color: #CAD7E6
