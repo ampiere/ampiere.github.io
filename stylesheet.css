@@ -4,6 +4,10 @@
   color: #222222;
 }
 
+table {
+  margin: auto;
+}
+
 #header {
   background-color: #222222;
   padding: 30px 10px 0px 10px;
