@@ -31,12 +31,12 @@ h1 {
 
 ul {
   list-style-type: none;
-  font-size: 20px;
+  font-size: 26px;
 }
 
 li {
   padding: 5px;
-  display: inline;
+  display: inline-block;
   border-left: 1px solid #333639;
   border-right: 1px solid #333639;
   background-color: #CAD7E6
