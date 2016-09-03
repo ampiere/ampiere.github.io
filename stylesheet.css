@@ -12,6 +12,7 @@
 
 #navbar {
 	margin: 0 auto;
+	display: inline-block;
 }
 
 h1 {
