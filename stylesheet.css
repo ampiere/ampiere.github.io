@@ -35,15 +35,14 @@ li {
 	background-color: #CAD7E6
 }
 
-a:link {
+a:link, a:visited, a:hover {
 	text-decoration:none;
 }
 
-a:hover {
+a:hover, a:active {
 	color: #AAAAAA;
 }
 
-a:visited {
-	color: #222222;
-	text-decoration: none;
+a:active {
+	text-decoration: underline;
 }
