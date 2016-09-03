@@ -2,6 +2,7 @@
   color: #8D8D8D;
   font-family: Garamond;
   text-align: left;
+  font-size: 6em;
 }
 
 #sidebar {
@@ -24,4 +25,5 @@
   background-color: #DEECFF;
   border: 2px solid #8B8D8F;
   border-radius: 5px;
+  text-align: center;
 }
