@@ -34,3 +34,16 @@ li {
 	border-radius: 5px 5px;
 	background-color: #CAD7E6
 }
+
+a:link {
+	text-decoration:none;
+}
+
+a:hover {
+	color: #AAAAAA;
+}
+
+a:visited {
+	color: #222222;
+	text-decoration: none;
+}
