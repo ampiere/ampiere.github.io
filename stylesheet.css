@@ -8,6 +8,10 @@
   background-color: #222222;
 }
 
+#navbar {
+	margin: auto;
+}
+
 h1 {
   color: #DDDDDD;
   font-family: Garamond;
@@ -25,7 +29,6 @@ h1 {
 
 ul {
   list-style-type: none;
-  margin: auto;
 }
 
 li {
