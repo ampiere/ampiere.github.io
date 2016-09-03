@@ -37,9 +37,7 @@ ul {
 li {
   padding: 5px;
   display: inline-block;
-  border-left: 1px solid #222222;
-  border-right: 1px solid #222222;
-  border-top: 1px solid #222222;
+  border: 1px solid #222222;
   background-color: #CAD7E6
 }
 
