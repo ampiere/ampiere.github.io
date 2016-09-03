@@ -24,15 +24,6 @@
   box-shadow: rgba(0,0,0,0.2) 10px 10px;
 }
 
-.button {
-  height: 35px;
-  width: 120px;
-  background-color: #DEECFF;
-  border: 2px solid #8B8D8F;
-  border-radius: 5px;
-  text-align: center;
-}
-
-div:hover {
-  background-color: white;
+ul {
+  list-style-type: none;
 }
