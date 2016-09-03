@@ -11,7 +11,7 @@
 }
 
 #navbar {
-  margin-top: -35px;
+  margin: -35px auto 0px auto;
 }
 
 h1 {
@@ -39,6 +39,7 @@ li {
   display: inline-block;
   border-left: 1px solid #333639;
   border-right: 1px solid #333639;
+  border-top: 1 px solid #333639;
   background-color: #CAD7E6
 }
 
