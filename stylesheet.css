@@ -25,13 +25,14 @@ h1 {
 
 ul {
   list-style-type: none;
+  margin: auto;
 }
 
 li {
 	padding: 5px;
 	float: left;
 	border: 2px solid #333639;
-	border-radius: 5px 5px;
+	border-radius: 5px;
 	background-color: #CAD7E6
 }
 
