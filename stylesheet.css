@@ -29,9 +29,12 @@ td {
 
 h1 {
   color: #DDDDDD;
-  font-family: Garamond;
   text-align: center;
   font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
 }
 
 #mainpic {
