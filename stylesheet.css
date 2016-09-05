@@ -57,7 +57,11 @@ h2 {
   box-shadow: rgba(0,0,0,0.2) 5px 5px;
 }
 
-ul {
+.linormal {
+  display: block;
+  padding: 0px;
+  background-color: none;
+  border: none;
 }
 
 li {
