@@ -59,8 +59,9 @@ h2 {
 
 .linormal {
   display: block;
+  margin: 3px;
   padding: 0px;
-  background-color: none;
+  background-color: #FFFFFF;
   border: none;
 }
 
