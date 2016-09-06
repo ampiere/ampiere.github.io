@@ -40,6 +40,11 @@ h2 {
   margin: 0px 10px -10px;
 }
 
+h3 {
+  font-size: 30px;
+  margin: 0px 20px -10px;
+}
+
 #mainpic {
   height: 250px;
   width: 250px;
