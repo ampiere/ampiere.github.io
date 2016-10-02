@@ -18,7 +18,7 @@ td {
 }
 
 #header {
-  background-color: #212d72;
+  background-color: #ddd5ec;
   padding: 30px 10px 0px 10px;
   margin: -35px -10px 0px -10px;
 }
@@ -30,7 +30,7 @@ td {
 }
 
 h1 {
-  color: #DDDDDD;
+  color: #444444;
   text-align: center;
   font-size: 60px;
 }
@@ -81,8 +81,8 @@ h3 {
 li {
   padding: 5px;
   display: inline-block;
-  border: 1px solid #222222;
-  background-color: #ddd5ec;
+  border: 1px solid #444444;
+  background-color: #212d72;
 }
 
 a:link, a:visited, a:hover {
