@@ -2,7 +2,7 @@
   font-family: Garamond;
   font-size: 22px;
   color: #222222;
-  background-color: #ddd27e;
+  background-color: #ddd5ec;
 }
 
 p {
@@ -25,6 +25,7 @@ td {
 }
 
 #navbar {
+  background-color: #CAD7E6
   list-style-type: none;
   font-size: 26px;
   margin-top: -41px;
