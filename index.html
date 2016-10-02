@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
-		<title>Home</title>
-	</head>
-	<body>
-		<div id="header"><h1>Mitchell Adrien St. Pierre</h1></div>
-		<div id="navbar">
-			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="aboutme.html">About Me</a></li>
-				<li><a href="academics.html">Academics</a></li>
-				<li><a href="experience.html">Experience</a></li>
+  <head>
+    <link type="text/css" rel="stylesheet" href="stylesheet.css" />
+    <title>Home</title>
+  </head>
+  <body>
+    <div id="header"><h1>Mitchell Adrien St. Pierre</h1></div>
+    <div id="navbar">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="aboutme.html">About Me</a></li>
+        <li><a href="academics.html">Academics</a></li>
+        <li><a href="experience.html">Experience</a></li>
 				<li><a href="extracurricular.html">Extracurricular</a></li>
 				<li><a href="studyabroad.html">Study Abroad</a></li>
 				<li><a href="contact.html">Contact</a></li>
@@ -21,8 +21,17 @@
 			<p style="text-align: center">Click an icon below!</p>
 			<tr>
 				<td><a href="aboutme.html"><img class="icon" src="http://i.imgur.com/mTHHWZx.png" /></a></td>
-				<td><img class="icon" src="http://i.imgur.com/hiowpBg.jpg" /></td>
-				<td><img class="icon" src="http://i.imgur.com/aTtOSIX.jpg" /></td>
+				<?php>
+					$i = rand(0, 1);
+					if($i == 0)
+					{
+						echo "<td><a href="academics.html"><img class="icon" src="http://i.imgur.com/hiowpBg.jpg" /></a></td>";
+					}
+					if($i == 1)
+					{
+						echo "<td><a href="academics.html"><img class="icon" src="http://i.imgur.com/aTtOSIX.jpg" /></a></td>";
+					}
+				<?>
 				<td><img class="icon" src="http://i.imgur.com/JRgdsvA.jpg" /></td>
 				<td><img class="icon" src="http://i.imgur.com/boGNNa4.jpg" /></td>
 			</tr>
