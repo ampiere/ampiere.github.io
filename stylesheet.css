@@ -2,7 +2,6 @@
   font-family: Garamond;
   font-size: 22px;
   color: #222222;
-  background-color: #ddd5ec;
 }
 
 p {
@@ -31,7 +30,6 @@ td {
 }
 
 h1 {
-  background-color: 212d72;
   color: #DDDDDD;
   text-align: center;
   font-size: 60px;
@@ -84,7 +82,7 @@ li {
   padding: 5px;
   display: inline-block;
   border: 1px solid #222222;
-  background-color: #CAD7E6
+  background-color: #ddd5ec;
 }
 
 a:link, a:visited, a:hover {
