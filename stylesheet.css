@@ -1,7 +1,7 @@
 * {
   font-family: Garamond;
   font-size: 22px;
-  color: #212d72;
+  color: #222222;
 }
 
 p {
@@ -18,7 +18,7 @@ td {
 }
 
 #header {
-  background-color: #222222;
+  background-color: #212d72;
   padding: 30px 10px 0px 10px;
   margin: -35px -10px 0px -10px;
 }
