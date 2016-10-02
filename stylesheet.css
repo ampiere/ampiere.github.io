@@ -2,6 +2,7 @@
   font-family: Garamond;
   font-size: 22px;
   color: #222222;
+  background-color: #ddd27e;
 }
 
 p {
@@ -57,9 +58,9 @@ h3 {
 .contact {
   border: 2px solid #222222;
   height: 100px;
-	width: 100px;
-	border-radius: 50px;
-	box-shadow: rgba(0,0,0,0.2) 5px 5px;
+  width: 100px;
+  border-radius: 50px;
+  box-shadow: rgba(0,0,0,0.2) 5px 5px;
 }
 
 .icon {
