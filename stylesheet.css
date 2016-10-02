@@ -25,13 +25,13 @@ td {
 }
 
 #navbar {
-  background-color: #CAD7E6
   list-style-type: none;
   font-size: 26px;
   margin-top: -41px;
 }
 
 h1 {
+  background-color: 212d72;
   color: #DDDDDD;
   text-align: center;
   font-size: 60px;
