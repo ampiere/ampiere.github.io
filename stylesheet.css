@@ -73,6 +73,11 @@ h3 {
   margin: 0px 20px 0px;
 }
 
+img.icon:hover {
+  height: 200px;
+  width: 200px;
+}
+
 .linormal {
   display: block;
   margin: 3px;
