@@ -80,6 +80,10 @@ img.icon:hover {
   margin: -10px 10px -10px;
 }
 
+img.icon:active {
+  box-shadow: rgba(0,0,0,0.2) 5px 5px;
+}
+
 .linormal {
   display: block;
   margin: 3px;
