@@ -81,7 +81,7 @@ img.icon:hover {
 }
 
 img.icon:active {
-  box-shadow: rgba(0,0,0,0.2) 5px 5px;
+  box-shadow: rgba(0,0,0,0.2) 1px 1px;
 }
 
 .linormal {
