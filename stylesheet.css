@@ -66,9 +66,9 @@ h3 {
 
 .icon {
   border: 3px solid #222222;
-  height: 200px;
-  width: 200px;
-  border-radius: 100px;
+  height: 180px;
+  width: 180px;
+  border-radius: 90px;
   box-shadow: rgba(0,0,0,0.2) 5px 5px;
 }
 
@@ -81,7 +81,7 @@ h3 {
 }
 
 li {
-  padding: 5px;
+  padding: 7px;
   display: inline-block;
   border: 1px solid #444444;
   background-color: #ddd5ec;
