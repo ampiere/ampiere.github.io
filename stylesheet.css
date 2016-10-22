@@ -76,6 +76,8 @@ h3 {
 img.icon:hover {
   height: 200px;
   width: 200px;
+  border-radius: 100px;
+  margin: -10px 10px -10px;
 }
 
 .linormal {
