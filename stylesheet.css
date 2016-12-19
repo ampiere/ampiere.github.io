@@ -11,6 +11,7 @@ body {
 p {
   margin-left: 60px;
   margin-right: 60px;
+  text-align: justify;
 }
 
 table {
