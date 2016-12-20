@@ -75,10 +75,10 @@ h3 {
 }
 
 img.icon:hover {
-  height: 200px;
-  width: 200px;
-  border-radius: 100px;
-  margin: -10px 10px -10px;
+  height: 220px;
+  width: 220px;
+  border-radius: 110px;
+  margin: -15px 15px -15px;
 }
 
 img.icon:active {
