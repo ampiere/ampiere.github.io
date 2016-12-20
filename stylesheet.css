@@ -74,6 +74,10 @@ h3 {
   margin: 0px 20px 0px;
 }
 
+.linked {
+	text-decoration: underline;
+}
+
 img.icon:hover {
   height: 200px;
   width: 200px;
