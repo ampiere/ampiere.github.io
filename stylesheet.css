@@ -59,9 +59,9 @@ h3 {
 
 .contact {
   border: 2px solid #222222;
-  height: 100px;
-  width: 100px;
-  border-radius: 50px;
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
   box-shadow: rgba(0,0,0,0.2) 5px 5px;
 }
 
