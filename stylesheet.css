@@ -75,9 +75,9 @@ h3 {
 }
 
 img.icon:hover {
-  height: 220px;
-  width: 220px;
-  border-radius: 110px;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
   margin: -20px 10px -20px;
 }
 
