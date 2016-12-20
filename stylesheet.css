@@ -91,6 +91,7 @@ img.icon:active {
   padding: 0px;
   background-color: #EEEEEE;
   border: none;
+	list-style-type: square;
 }
 
 li {
