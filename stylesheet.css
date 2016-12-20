@@ -87,11 +87,10 @@ img.icon:active {
 
 .linormal {
   display: block;
-  margin-left: 75px;
+  margin-left: 60px;
   padding: 0px;
   background-color: #EEEEEE;
   border: none;
-	list-style-type: square;
 }
 
 li {
