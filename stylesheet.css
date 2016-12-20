@@ -59,9 +59,9 @@ h3 {
 
 .contact {
   border: 2px solid #222222;
-  height: 120px;
-  width: 120px;
-  border-radius: 60px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
   box-shadow: rgba(0,0,0,0.2) 5px 5px;
 }
 
@@ -75,9 +75,9 @@ h3 {
 }
 
 img.icon:hover {
-  height: 200px;
-  width: 200px;
-  border-radius: 100px;
+  height: 220px;
+  width: 220px;
+  border-radius: 110px;
   margin: -20px 10px -20px;
 }
 
